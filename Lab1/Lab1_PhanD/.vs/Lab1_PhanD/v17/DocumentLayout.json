@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\CTDL\u0026TG\\Lab1\\Lab1_PhanD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B06EB4D3-667E-47FE-9C97-0DF46C641AD0}|Bai2_E\\Bai2_E.vcxproj|D:\\University\\CTDL\u0026TG\\Lab1\\Lab1_PhanD\\Bai2_E\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B06EB4D3-667E-47FE-9C97-0DF46C641AD0}|Bai2_E\\Bai2_E.vcxproj|solutionrelative:Bai2_E\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06EB4D3-667E-47FE-9C97-0DF46C641AD0}|Bai2_E\\Bai2_E.vcxproj|D:\\University\\CTDL\u0026TG\\Lab1\\Lab1_PhanD\\Bai2_E\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B06EB4D3-667E-47FE-9C97-0DF46C641AD0}|Bai2_E\\Bai2_E.vcxproj|solutionrelative:Bai2_E\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thuvien.h",
+              "DocumentMoniker": "D:\\University\\CTDL\u0026TG\\Lab1\\Lab1_PhanD\\Bai2_E\\Thuvien.h",
+              "RelativeDocumentMoniker": "Bai2_E\\Thuvien.h",
+              "ToolTip": "D:\\University\\CTDL\u0026TG\\Lab1\\Lab1_PhanD\\Bai2_E\\Thuvien.h",
+              "RelativeToolTip": "Bai2_E\\Thuvien.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T17:50:33.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\University\\CTDL\u0026TG\\Lab1\\Lab1_PhanD\\Bai2_E\\program.cpp",
+              "RelativeDocumentMoniker": "Bai2_E\\program.cpp",
+              "ToolTip": "D:\\University\\CTDL\u0026TG\\Lab1\\Lab1_PhanD\\Bai2_E\\program.cpp",
+              "RelativeToolTip": "Bai2_E\\program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T17:50:25.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

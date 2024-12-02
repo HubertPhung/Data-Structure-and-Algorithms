@@ -1,0 +1,5 @@
+﻿  Program.cpp
+D:\University\CTDL&TG\2312585_PNHBo_Test2\2312585_PNHBo_Test2\Menu.h(30,6): warning C4101: 'kq': unreferenced local variable
+  (compiling source file 'Program.cpp')
+  
+  2312585_PNHBo_Test2.vcxproj -> D:\University\CTDL&TG\2312585_PNHBo_Test2\x64\Debug\2312585_PNHBo_Test2.exe

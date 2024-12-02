@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73AE90F2-6D63-45DC-A61A-AF88DC95466A}|Lab04_Bai1E\\Lab04_Bai1E.vcxproj|D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1E\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73AE90F2-6D63-45DC-A61A-AF88DC95466A}|Lab04_Bai1E\\Lab04_Bai1E.vcxproj|solutionrelative:Lab04_Bai1E\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AE90F2-6D63-45DC-A61A-AF88DC95466A}|Lab04_Bai1E\\Lab04_Bai1E.vcxproj|D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1E\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73AE90F2-6D63-45DC-A61A-AF88DC95466A}|Lab04_Bai1E\\Lab04_Bai1E.vcxproj|solutionrelative:Lab04_Bai1E\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AE90F2-6D63-45DC-A61A-AF88DC95466A}|Lab04_Bai1E\\Lab04_Bai1E.vcxproj|D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1E\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73AE90F2-6D63-45DC-A61A-AF88DC95466A}|Lab04_Bai1E\\Lab04_Bai1E.vcxproj|solutionrelative:Lab04_Bai1E\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655A177-D157-48B3-BCE3-040ECB0F0243}|Lab04_Bai3D\\Lab04_Bai3D.vcxproj|D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai3D\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D655A177-D157-48B3-BCE3-040ECB0F0243}|Lab04_Bai3D\\Lab04_Bai3D.vcxproj|solutionrelative:Lab04_Bai3D\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680852F8-8B5C-4126-9391-F98DF76A4257}|Lab04_Bai1D\\Lab04_Bai1D.vcxproj|D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1D\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{680852F8-8B5C-4126-9391-F98DF76A4257}|Lab04_Bai1D\\Lab04_Bai1D.vcxproj|solutionrelative:Lab04_Bai1D\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680852F8-8B5C-4126-9391-F98DF76A4257}|Lab04_Bai1D\\Lab04_Bai1D.vcxproj|D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1D\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{680852F8-8B5C-4126-9391-F98DF76A4257}|Lab04_Bai1D\\Lab04_Bai1D.vcxproj|solutionrelative:Lab04_Bai1D\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2325EA-A04D-4CE6-9119-20DED3C2952E}|Lab04_Bai2D\\Lab04_Bai2D.vcxproj|D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai2D\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A2325EA-A04D-4CE6-9119-20DED3C2952E}|Lab04_Bai2D\\Lab04_Bai2D.vcxproj|solutionrelative:Lab04_Bai2D\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655A177-D157-48B3-BCE3-040ECB0F0243}|Lab04_Bai3D\\Lab04_Bai3D.vcxproj|D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai3D\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D655A177-D157-48B3-BCE3-040ECB0F0243}|Lab04_Bai3D\\Lab04_Bai3D.vcxproj|solutionrelative:Lab04_Bai3D\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.h",
+              "DocumentMoniker": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1E\\Menu.h",
+              "RelativeDocumentMoniker": "Lab04_Bai1E\\Menu.h",
+              "ToolTip": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1E\\Menu.h",
+              "RelativeToolTip": "Lab04_Bai1E\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T17:19:49.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thuvien.h",
+              "DocumentMoniker": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1E\\Thuvien.h",
+              "RelativeDocumentMoniker": "Lab04_Bai1E\\Thuvien.h",
+              "ToolTip": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1E\\Thuvien.h",
+              "RelativeToolTip": "Lab04_Bai1E\\Thuvien.h",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T17:19:48.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1E\\Program.cpp",
+              "RelativeDocumentMoniker": "Lab04_Bai1E\\Program.cpp",
+              "ToolTip": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1E\\Program.cpp",
+              "RelativeToolTip": "Lab04_Bai1E\\Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T17:19:43.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Thuvien.h",
+              "DocumentMoniker": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1D\\Thuvien.h",
+              "RelativeDocumentMoniker": "Lab04_Bai1D\\Thuvien.h",
+              "ToolTip": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1D\\Thuvien.h",
+              "RelativeToolTip": "Lab04_Bai1D\\Thuvien.h",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAJ8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T14:03:20.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.h",
+              "DocumentMoniker": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1D\\Menu.h",
+              "RelativeDocumentMoniker": "Lab04_Bai1D\\Menu.h",
+              "ToolTip": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai1D\\Menu.h",
+              "RelativeToolTip": "Lab04_Bai1D\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T14:03:21.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thuvien.h",
+              "DocumentMoniker": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai2D\\Thuvien.h",
+              "RelativeDocumentMoniker": "Lab04_Bai2D\\Thuvien.h",
+              "ToolTip": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai2D\\Thuvien.h",
+              "RelativeToolTip": "Lab04_Bai2D\\Thuvien.h",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T14:03:01.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.h",
+              "DocumentMoniker": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai3D\\Menu.h",
+              "RelativeDocumentMoniker": "Lab04_Bai3D\\Menu.h",
+              "ToolTip": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai3D\\Menu.h",
+              "RelativeToolTip": "Lab04_Bai3D\\Menu.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T12:30:17.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Thuvien.h",
+              "DocumentMoniker": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai3D\\Thuvien.h",
+              "RelativeDocumentMoniker": "Lab04_Bai3D\\Thuvien.h",
+              "ToolTip": "D:\\University\\CTDL\u0026TG\\2312585_PNHBo_Lab04\\Lab04_Bai3D\\Thuvien.h",
+              "RelativeToolTip": "Lab04_Bai3D\\Thuvien.h",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAACUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T12:13:16.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
